@@ -3,7 +3,7 @@
 # Site Settings
 title: Yu-Chi (Ashley) Chen
 url: ''
-baseurl: '/Ashley.io' #change it according to your repository name
+baseurl: '/ashley.io' #change it according to your repository name
 description: MS in Financial Engineering graduate at the University of Illinois at Urbana-Champaign
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
