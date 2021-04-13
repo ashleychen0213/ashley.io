@@ -1,6 +1,6 @@
 {% assign highlights = site.data.data.highlights %}
-{% if highlight %}
-<section class="section experiences-section">
+{% if highlights %}
+<section class="section highlights-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -18,11 +18,12 @@
         <a href="{{ highlight.hyperlink }}"  target="_blank"><h3 class="job-title">{{ highlight.role }}</h3></a>
         <div class="time">{{ highlight.time }}</div>
       </div><!--//upper-row-->
+      <div class="company">
       {% if highlight.prof %}
-        <div class="company">{{ highlight.prof }}</div>
+       <div>{{highlight.prof }}</div>
       {% endif %}
-      <div class="company">{{ highlight.company }}</div>
-
+      <div>{{ highlight.company }}</div>
+      </div>
     </div><!--//meta-->
 
     {% if highlight.details %}

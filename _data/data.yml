@@ -98,6 +98,7 @@ experiences:
           - Designed a new life insurance for fetus which provides coverage on 45 congenital major diseases and 5 mental diseases, previously mental disease had never been considered in life insurance policies in Taiwan
           - Assisted in building and generating pricing model using Excel for several health insurance policies
           - Analyzed the demand and the costs for palliative care at home, and provided 3 different solutions on how the original policy may be changed to benefit the policyholders
+
 highlights:
     - role: RCM Alternatives, Ltd, Chicago, IL, USA
       hyperlink: https://www.rcmalternatives.com/
@@ -109,7 +110,7 @@ highlights:
           - Visualized the distributions of order imbalance of 100-tick buckets and bid-ask spreads during the settlement period in order to select significant features to predict the trading volume of crude oil futures
     - role: Illinois Risk Lab, Champaing, IL, USA 
       hyperlink: https://math.illinois.edu/taxonomy/term/14
-      porf: Prof. Alfred Chong
+      prof: Prof. Alfred Chong
       time: Aug 2017 – Dec 2017
       company: Member of Practical Implementation of Optimal Reinsurance under Distortion Risk Measures Project
       details: |
