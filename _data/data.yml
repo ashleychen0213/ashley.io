@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yu-Chi (Ashley) Chen
-    tagline: Financial analyst / Actuarial analyst /  Risk analyst
+    tagline: Financial analyst / Actuarial analyst
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,7 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Mandarin Chinese
+      - idiom: Chinese
         level: Native
 
       - idiom: English
@@ -50,7 +50,7 @@ career-profile:
       in actuarial science, both at the University of Illinois at Urbana-Champaign. 
       I have passed three actuarial exams, including Exam P, Exam FM, and Exam IFM, 
       and I am currently pursuing to attain the Associate of the Society of Actuaries. 
-      With my academic background and internship experience, I've developed my programming 
+      With my academic background and internship experiences, I've developed my programming 
       skills in Excel VBA, SQL, MATLAB, Python, R, and C++. 
       You can [download my resume here](Resume_YuChiChen_210329_as.pdf).
 education:
@@ -83,19 +83,19 @@ experiences:
     - role: Nan Shan Life Insurance Co., Ltd, Taipei, Taiwan
       hyperlink: https://www.nanshanlife.com.tw/PublicWeb/AboutEN/AboutEN.html
       time: Jun 2020 – Aug 2020
-      company: Intern in Investment-Linked Product Development Department
+      company: Actuarial Intern in Investment-Linked Product Development Department
       details: |
           - Built stochastic model and implemented Monte Carlo Simulation method to predict 1,000 possible future account values in order to price Guaranteed Minimum Death Benefit (GMDB) and Guaranteed Minimum Maturity Benefit (GMMB) products
           - Conducted sensitivity analysis on how 1% change in assumptions, such as expected return and volatility, would affect the value of the guarantees in variable annuity products
-          - Provided a 15-minute individual presentation on the final project regarding of guarantees in variable annuity products in front of the vice president and 6 managers from different actuarial departments
-          - Compared 5 variable annuity products from different countries based on their benefits and charges, which helped sb design products offering more options for the policyholders
-          - Researched on how COVID-19 affects the market and profit/loss on guaranteed products using 6-month of historical data on 5 different indices and insurance companies’ quarterly financial reports
+          - Provided a 15-minute individual presentation on the final project regarding guarantees in variable annuity products in front of the vice president and 6 managers from different actuarial departments
+          - Compared 5 variable annuity products from different countries based on their benefits and charges, which helped the department design products offering more options for the policyholders
+          - Researched on how COVID-19 affects the market and profit/loss on guaranteed products using 6-months of historical data on 5 different indices and insurance companies’ quarterly financial reports
     - role: Cathay Life Insurance Co., Ltd, Taipei, Taiwan
       hyperlink: https://www.cathaylife.com.tw/website/PFWeb/html/eng/about_company_profile.html
       time: Jun 2019 – Aug 2019
-      company: Intern in Product Development Department
+      company: Actuarial Intern in Product Development Department
       details: |
-          - Designed a new life insurance for fetus which provides coverage on 45 congenital major diseases and 5 mental diseases, while mental disease had never been considered in life insurance policies in Taiwan
+          - Designed a new life insurance for fetus which provides coverage on 45 congenital major diseases and 5 mental diseases, previously mental disease had never been considered in life insurance policies in Taiwan
           - Assisted in building and generating pricing model using Excel for several health insurance policies
           - Analyzed the demand and the costs for palliative care at home, and provided 3 different solutions on how the original policy may be changed to benefit the policyholders
     - role: RCM Alternatives, Ltd, Chicago, IL, USA
@@ -114,7 +114,7 @@ experiences:
           - Studied 4 reference papers to have a better understanding of risk and reinsurance contracts, especially focusing on stop-loss, quota-share, and change-loss functions
           - Used MATLAB to conduct numerical analysis to discover how certain criteria affect the optimal solution
 projects:
-    title: LEADERSHIP
+    title: LEADERSHIP EXPERIENCE
     intro: >
       
     assignments:
@@ -156,7 +156,7 @@ skills:
       - name: R
         level: 98%
 
-      - name: Advanced Excel
+      - name: Excel (VBA, Pivot Table, Advanced Functions)
         level: 98%
       
       - name: Microsoft Office
