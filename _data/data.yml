@@ -106,8 +106,9 @@ experiences:
           - Analyzed the relationship between TAS and underlying crude oil futures contracts using 12-month trading data and wrote technical documentation
           - Used Python to build a model predicting price change of underlying crude oil futures contracts from the trading volume of TAS contracts within 1-minute, 5-minute, and 10-minute intervals
           - Visualized the distributions of order imbalance of 100-tick buckets and bid-ask spreads during the settlement period in order to select significant features to predict the trading volume of crude oil futures
-    - role: Prof. Alfred Chong, Illinois Risk Lab, Champaing, IL, USA 
+    - role: Illinois Risk Lab, Champaing, IL, USA 
       hyperlink: https://math.illinois.edu/taxonomy/term/14
+      porf: Prof. Alfred Chong
       time: Aug 2017 – Dec 2017
       company: Member of Practical Implementation of Optimal Reinsurance under Distortion Risk Measures Project
       details: |
