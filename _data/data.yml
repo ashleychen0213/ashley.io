@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yu-Chi (Ashley) Chen
-    tagline: Risk analyst / Actuarial analyst
+    tagline: Financial analyst / Actuarial analyst /  Risk analyst
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,7 +52,7 @@ career-profile:
       and I am currently pursuing to attain the Associate of the Society of Actuaries. 
       With my academic background and internship experience, I've developed my programming 
       skills in Excel VBA, SQL, MATLAB, Python, R, and C++. 
-      You can [download this my resume here]().
+      You can [download my resume here](Resume_YuChiChen_210329_as.pdf).
 education:
     - degree: Master of Science in Financial Engineering
       hyperlink: https://msfe.illinois.edu/
